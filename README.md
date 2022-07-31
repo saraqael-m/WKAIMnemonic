@@ -15,5 +15,5 @@ Naming scheme:
 ### Credits
 The original is made by Sinyaven, I just very slightly tweaked it so that images lying on a Github page could be used.
 
-#### Prerequisites
+### Prerequisites
 The WaniKani Open Framework (wkof) is needed to run this userscript.
