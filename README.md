@@ -17,3 +17,6 @@ The original is made by Sinyaven, I just very slightly tweaked it so that images
 
 ### Prerequisites
 The WaniKani Open Framework (wkof) is needed to run this userscript.
+
+### Download
+https://greasyfork.org/en/scripts/448713-wanikani-ai-mnemonic-images
