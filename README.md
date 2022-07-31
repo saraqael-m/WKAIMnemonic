@@ -1,7 +1,7 @@
 # WaniKani AI Mnemonic Images (Userscript)
 
 ### Features
-Adds AI images from this WK thread to WaniKani info pages, as well as lessons and reviews.
+Adds AI images from <a href="https://community.wanikani.com/t/wanikani-mnemonics-in-image-form-done-by-ai/57910">this WK thread<a> to WaniKani info pages, as well as lessons and reviews.
 
 **Images that are uploaded here are used by the script and displayed on WaniKani websites.**
 
